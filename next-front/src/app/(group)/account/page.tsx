@@ -1,5 +1,5 @@
 const Page = () => {
-  return <div>Account</div>
+  return <div style={{ textAlign: 'center' }}>Account</div>
 }
 
 export default Page
