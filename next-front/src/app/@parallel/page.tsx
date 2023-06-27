@@ -2,7 +2,7 @@ import React from 'react'
 
 const Page = () => {
   return (
-    <div>
+    <div style={{ textAlign: 'center', marginTop: 4 }}>
       <h1>Parallel1</h1>
     </div>
   )
